@@ -1,0 +1,117 @@
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\Models.dll.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\obj\Debug\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\obj\Debug\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\Models.dll.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\obj\Debug\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\Models\obj\Debug\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\Models.dll.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\obj\Debug\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\物联\OnlineVideo\Models\obj\Debug\Models.pdb
+E:\AW\物联\OnlineVideo\Models\bin\Debug\Models.dll.config
+E:\AW\物联\OnlineVideo\Models\bin\Debug\Models.dll
+E:\AW\物联\OnlineVideo\Models\bin\Debug\Models.pdb
+E:\AW\物联\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+E:\AW\物联\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\AW\物联\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+E:\AW\物联\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\AW\物联\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\AW\物联\OnlineVideo\Models\obj\Debug\Models.dll
+E:\AW\物联\OnlineVideo\Models\obj\Debug\Models.pdb
+E:\AW\物联\OnlineVideo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\Models.dll.config
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\Models.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\Models.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\obj\Debug\Models.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\obj\Debug\Models.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\Models.dll.config
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\Models.dll
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\Models.pdb
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\tanwei\源码\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\tanwei\源码\OnlineVideo\Models\obj\Debug\Models.dll
+E:\tanwei\源码\OnlineVideo\Models\obj\Debug\Models.pdb
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\Models.dll.config
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\Models.dll
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\Models.pdb
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\zrd\源码\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\zrd\源码\OnlineVideo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\zrd\源码\OnlineVideo\Models\obj\Debug\Models.dll
+E:\zrd\源码\OnlineVideo\Models\obj\Debug\Models.pdb
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\Models.dll.config
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\Models.dll
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\Models.pdb
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\OnlineVideo\Models\obj\Debug\Models.dll
+E:\8.lzs\源码\OnlineVideo\Models\obj\Debug\Models.pdb
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\Models.dll.config
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\Models.dll
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\Models.pdb
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\新建文件夹\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\新建文件夹\Models\obj\Debug\Models.dll
+E:\8.lzs\源码\新建文件夹\Models\obj\Debug\Models.pdb
+E:\8.lzs\源码\新建文件夹\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\Models.dll.config
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\Models.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\Models.pdb
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\obj\Debug\Models.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\obj\Debug\Models.pdb
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\Models.dll.config
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\Models.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\Models.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\EntityFramework.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\EntityFramework.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\obj\Debug\Models.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\obj\Debug\Models.pdb

@@ -1,0 +1,13 @@
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\InsetTencentUser.exe.config
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\InsetTencentUser.exe
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\InsetTencentUser.pdb
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\EntityFramework.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\EntityFramework.xml
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Release\InsetTencentUser.Inset.resources
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Release\InsetTencentUser.Properties.Resources.resources
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Release\InsetTencentUser.csproj.GenerateResource.Cache
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Release\InsetTencentUser.exe
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Release\InsetTencentUser.pdb
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Release\EntityFramework.SqlServer.xml

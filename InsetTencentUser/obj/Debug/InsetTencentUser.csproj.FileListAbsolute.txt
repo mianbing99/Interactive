@@ -1,0 +1,96 @@
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csprojResolveAssemblyReference.cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+E:\LZB\项目源码\E家亲\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.pdb
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.dll
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.xml
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csprojResolveAssemblyReference.cache
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+E:\tanwei\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.pdb
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.dll
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.xml
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+E:\zrd\源码\OnlineVideo\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\zrd\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csprojResolveAssemblyReference.cache
+E:\zrd\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+E:\zrd\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+E:\zrd\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+E:\zrd\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+E:\zrd\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.pdb
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+E:\8.lzs\源码\OnlineVideo\InsetTencentUser\obj\Debug\InsetTencentUser.pdb
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\obj\Debug\InsetTencentUser.pdb
+E:\8.lzs\源码\新建文件夹\InsetTencentUser\obj\Debug\InsetTencentUser.csprojResolveAssemblyReference.cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\InsetTencentUser.exe.config
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\InsetTencentUser.exe
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\InsetTencentUser.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\EntityFramework.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\EntityFramework.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\obj\Debug\InsetTencentUser.Inset.resources
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\obj\Debug\InsetTencentUser.Properties.Resources.resources
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\obj\Debug\InsetTencentUser.csproj.GenerateResource.Cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\obj\Debug\InsetTencentUser.exe
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\InsetTencentUser\obj\Debug\InsetTencentUser.pdb

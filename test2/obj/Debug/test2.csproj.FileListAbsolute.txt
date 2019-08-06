@@ -1,0 +1,96 @@
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\test2.exe
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\test2.pdb
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\Newtonsoft.Json.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\WeChat.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\Models.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\Common.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\EntityFramework.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\System.Net.Http.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\WeChat.pdb
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\Models.pdb
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\Common.pdb
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\EntityFramework.xml
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\System.Net.Http.xml
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\tanwei\源码\OnlineVideo\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+E:\tanwei\源码\OnlineVideo\test2\obj\Debug\test2.exe
+E:\tanwei\源码\OnlineVideo\test2\obj\Debug\test2.pdb
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\test2.exe.config
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\EntityFramework.SqlServer.dll
+E:\tanwei\源码\OnlineVideo\test2\bin\Debug\EntityFramework.SqlServer.xml
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\test2.exe.config
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\test2.exe
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\test2.pdb
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\EntityFramework.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\EntityFramework.SqlServer.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\Models.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\Newtonsoft.Json.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\WeChat.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\Common.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\System.Net.Http.dll
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\Models.pdb
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\WeChat.pdb
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\EntityFramework.xml
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\EntityFramework.SqlServer.xml
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\Common.pdb
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\System.Net.Http.xml
+E:\zrd\源码\OnlineVideo\test2\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\zrd\源码\OnlineVideo\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+E:\zrd\源码\OnlineVideo\test2\obj\Debug\test2.exe
+E:\zrd\源码\OnlineVideo\test2\obj\Debug\test2.pdb
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\test2.exe.config
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\test2.exe
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\test2.pdb
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\Models.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\Newtonsoft.Json.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\WeChat.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\Common.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\System.Net.Http.dll
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\Models.pdb
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\WeChat.pdb
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\Common.pdb
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\System.Net.Http.xml
+E:\8.lzs\源码\OnlineVideo\test2\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\8.lzs\源码\OnlineVideo\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\OnlineVideo\test2\obj\Debug\test2.exe
+E:\8.lzs\源码\OnlineVideo\test2\obj\Debug\test2.pdb
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\test2.exe.config
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\test2.exe
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\test2.pdb
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\Models.dll
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\Newtonsoft.Json.dll
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\WeChat.dll
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\Common.dll
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\Models.pdb
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\WeChat.pdb
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\Common.pdb
+E:\8.lzs\源码\新建文件夹\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\新建文件夹\test2\obj\Debug\test2.exe
+E:\8.lzs\源码\新建文件夹\test2\obj\Debug\test2.pdb
+E:\8.lzs\源码\新建文件夹\test2\bin\Debug\Core.Common.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\test2.exe.config
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\test2.exe
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\test2.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\EntityFramework.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\Models.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\WeChat.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\Common.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\Core.Common.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\Models.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\WeChat.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\EntityFramework.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\bin\Debug\Common.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\obj\Debug\test2.exe
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\test2\obj\Debug\test2.pdb

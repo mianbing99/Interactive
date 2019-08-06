@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="../layui/css/layui.css" rel="stylesheet" />
+    <script src="../layui/layui.js"></script>
+    <script src="layui/layui.all.js"></script>
+    <script src="../Js/jquery-1.11.3.js"></script>
+    <style>
+        .panle { height: 20%; background-color: #a1e4f7; font-size: 2.8rem; border-radius: 15px;}
+        #tstitle { text-align: center; line-height: 80px; }
+        #tscontent { text-align: center; line-height: 220px; }
+        #qr { width: 220px; background-color: #0bb7ef; border: 3px solid #73dbfd; border-radius: 15px; position: relative; left: 33%;}
+        #qx { width: 220px; background-color: #0bb7ef; border: 3px solid #73dbfd; border-radius: 15px; position: relative; left: 10%; }
+    </style>
+    <script type="text/javascript">
+        var layer;
+        layui.use('layer', function () {
+            layer = layui.layer;
+        });
+        $(function () {
+            $("#aaa").click(function () {
+                /*layer.open({
+                    type: 1,
+                    title: false,
+                    closeBtn: 0,
+                    shadeClose: true,
+                    skin: 'panle',
+                    time: 1000,
+                    content: '<div class="panle">'+
+                                '<p id="tstitle">温馨提示</p>'+
+                                '<hr style="border-top: 1px solid #18afda;"/>'+
+                                '<p id="tscontent">确认删除设备吗？</p>'+
+                            '</div>'
+                });
+                $("#layui-layer1").css({ "width": "80%", "left": "10%", "top": "30%" });  */
+
+
+
+                layer.open({
+                    type: 1,
+                    title: false,
+                    closeBtn: 0,
+                    shadeClose: true,
+                    skin: 'panle',
+                    content: '<div class="panle">'+
+                                '<p id="tstitle">温馨提示</p>'+
+                                '<hr style="border-top: 1px solid #18afda;"/>'+
+                                '<p id="tscontent">确认删除设备吗？</p>'+
+                                '<div style="margin-bottom: 20px;"><input type="button" value="取消" id="qx" /><input type="button" value="确认" id="qr" /></div>' +
+                            '</div>'
+                });
+                $(".layui-layer-page").css({ "width": "80%", "left": "10%", "top": "30%" });
+            });
+        });
+        
+
+    </script>
+</head>
+<body>
+    <input type="button" value="点击" id="aaa"/>
+    
+</body>
+</html>

@@ -1,0 +1,20 @@
+﻿.Login {border:1px solid #aaa;  width: 560px; height: 380px; left: 50%; top: 50%; margin-top: -175px; margin-left: -280px; position: absolute; background-color: #e4e4e4; }
+.Title { width:100%; height: 90px; float:left; line-height: 90px;font-size:30px; font-weight:bold; text-align:center; background-color: #428bca; color: #fff; }
+.Content {width:100%; height: 200px; float:left; border-bottom:1px solid #ff6a00; }
+.Content div {width:400px; height:40px; margin:35px auto; position:relative;}
+.Content span {  width: 40px; height: 40px;line-height: 40px;text-align: center;position:absolute;  color: #fff;}
+.Content span i {line-height: 40px;text-align: center;}
+.Content input{  border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    width: 360px; height:40px; line-height: 40px;text-indent:5px; font-size:16px;  position:absolute; left:40px;
+    top: 0px;
+}
+.PidDiv span{background-color: #28b779; }
+.PwdDiv span{background-color: #ffb848; }
+.Foot {width:100%; float:left; height: 58px; height: 58px; }
+.Foot input { width:80px; height:35px; color:#fff; font-size:14px;margin-top:10px; background-color:#49afcd; border:1px solid #428bca;}
+.Foot input:hover { background-color:#2f96b4;}
+.Foot input[type=submit] {margin-left:175px; }
+.Foot input[type=reset] {margin-left:50px; }
+

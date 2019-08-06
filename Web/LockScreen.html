@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        .lockDiv { width: 100%; height: 100%; display: none; z-index: 10; background-color: #DFE8F6; position: absolute; top: 0px; left: 0px; }
+        .lockDivInfo { width: 50px; height: 2px; display: none; position: absolute; left: 0px; top: 0px; z-index: 11; }
+        #CloseDiv { float: right; width: 100px; height: 100px; margin-top: 10px; margin-right: 10px; }
+    </style>
+    <script src="Js/jquery-1.11.0.min.js"></script> 
+    <!--<script src="Js/jquery-1.11.3.js"></script>-->
+    <script type="text/javascript">                                                                               
+        $(function () {
+            $.fn.doPost = function (settings) {
+                settings = jQuery.extend({
+                    isAsync: true,
+                    type: "post",
+                    url: null,
+                    dataType: null,
+                    data: null,
+                    success: null,
+                    error: toError,
+                    isLock: true,
+                    isCache: false
+                }, settings);
+                $(this).each(function () {
+                    if (settings.isLock) {
+                        lockSrc();
+                    }
+                    $.ajax({
+                        async: settings.isAsync,
+                        type: settings.type,
+                        url: settings.url,
+                        dataType: settings.dataType,
+                        data: settings.data,
+                        cache: settings.isCache,
+                        success: function (msg) {
+                            if (settings.isLock) {
+                                unlockSrc();
+                            }
+                            settings.success(msg);
+                        },
+                        error: settings.error
+                    });
+                });
+                //锁屏方法
+                function lockSrc() {
+                    $(".lockDiv").css({ "opacity": "0.5" }).fadeIn('normal');
+                    var scrollWidth = document.documentElement.clientWidth;//document.body.clientWidth;
+                    var scrollHeight = document.documentElement.clientHeight; // document.body.clientHeight;
+                    var divWidth = $(".lockDivInfo").width();
+                    var divHeight = $(".lockDivInfo").height();
+                    var divLeft = scrollWidth / 2 - divWidth / 2;
+                    var divTop = scrollHeight / 2 - divHeight / 2;
+                    //console.log("bodyWidth="+scrollWidth+",bodyHeight="+scrollHeight+",divHeight="+divHeight+",divWidth="+divWidth+",left="+divLeft+",top="+divTop);
+                    $(".lockDivInfo").css({ "position": "absolute", "top": divTop, "left": divLeft }).fadeIn('normal');
+                }
+                //解屏方法
+                function unlockSrc() {
+                    $(".lockDivInfo").fadeOut('normal');
+                    $(".lockDiv").fadeOut('normal');
+                }
+                function toError() {
+                    alert("操作失败!");
+                }
+            };
+            $("#queryBtn").click(function () {
+                selecCheckByRegionApp.query();
+            });
+            var selecCheckByRegionApp = {};
+            selecCheckByRegionApp.query = function () {
+                var settion = {
+                    type: "post",
+                    url: 'selfCheckStatisticAction!findByRegion',
+                    dataType: "text",
+                    data: $("#searchForm").formSerialize(),
+                    success: function (msg) {
+                        $("#contentDiv").html(msg);
+                    }
+                };
+                $("#queryBtn").doPost(settion);
+            }
+        })
+    </script>  
+</head>
+<body>
+    <div class="lockDiv"></div>
+    <div class="lockDivInfo">
+        <img id="CloseDiv" src="Img/u=757379640,3491461791&fm=21&gp=0.jpg"></img>
+        2342
+    </div>
+    <div id="queryBtn" style="border-left-color:red;" typeof="btn">
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Common\bin\Release\Common.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Common\bin\Release\Common.pdb
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Common\obj\Release\Common.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Common\obj\Release\Common.pdb
+E:\HP\金龙锋源代码\OnlineVideo\Common\bin\Release\Common.dll
+E:\HP\金龙锋源代码\OnlineVideo\Common\bin\Release\Common.pdb
+E:\HP\金龙锋源代码\OnlineVideo\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\HP\金龙锋源代码\OnlineVideo\Common\obj\Release\Common.dll
+E:\HP\金龙锋源代码\OnlineVideo\Common\obj\Release\Common.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Common\bin\Release\Common.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Common\bin\Release\Common.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Common\obj\Release\Common.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Common\obj\Release\Common.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Common\bin\Release\Common.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Common\bin\Release\Common.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Common\obj\Release\Common.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Common\obj\Release\Common.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\Common\bin\Release\Common.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Common\bin\Release\Common.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\Common\obj\Release\Common.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Common\obj\Release\Common.pdb
+E:\tanwei\源码\OnlineVideo\Common\bin\Release\Common.dll
+E:\tanwei\源码\OnlineVideo\Common\bin\Release\Common.pdb
+E:\tanwei\源码\OnlineVideo\Common\obj\Release\Common.dll
+E:\tanwei\源码\OnlineVideo\Common\obj\Release\Common.pdb
+E:\8.lzs\源码\OnlineVideo\Common\bin\Release\Common.dll
+E:\8.lzs\源码\OnlineVideo\Common\bin\Release\Common.pdb
+E:\8.lzs\源码\OnlineVideo\Common\obj\Release\Common.dll
+E:\8.lzs\源码\OnlineVideo\Common\obj\Release\Common.pdb
+E:\8.lzs\源码\新建文件夹\Common\bin\Release\Common.dll
+E:\8.lzs\源码\新建文件夹\Common\bin\Release\Common.pdb
+E:\8.lzs\源码\新建文件夹\Common\obj\Release\Common.dll
+E:\8.lzs\源码\新建文件夹\Common\obj\Release\Common.pdb
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Common\bin\Release\Common.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Common\bin\Release\Common.pdb
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Common\obj\Release\Common.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Common\obj\Release\Common.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Common\bin\Release\Common.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Common\bin\Release\Common.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Common\obj\Release\Common.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Common\obj\Release\Common.pdb

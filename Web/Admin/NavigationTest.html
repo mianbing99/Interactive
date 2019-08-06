@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>e家亲后台</title>
+    <link rel="stylesheet" href="js/layui/css/layui.css" />
+    <style>
+    .bgi1 {background-image:url(../admin/img/index/1.jpg);}
+    </style>
+
+</head>
+<body class="bgi1" >
+ 
+<ul class="layui-nav">
+  <li class="layui-nav-item"><a href="javascript:void(0);" id="home">首页</a></li>
+  <li class="layui-nav-item">
+    <a href="javascript:;">资源管理</a>
+    <dl class="layui-nav-child site-demo-button">
+  <dd><a href="javascript:void(0);" id="alls">全部资源</a></dd>
+  <dd><a href="javascript:void(0);" id="adds">增加资源</a></dd>
+  <dd><a href="javascript:void(0);" id="utj">用户统计</a></dd>
+    </dl>
+  </li>
+  <li class="layui-nav-item">
+    <a href="javascript:;">账号管理</a>
+    <dl class="layui-nav-child">
+      <dd><a href="javascript:void(0);" id="updatepwd">修改密码</a></dd>
+      <dd><a href="javascript:void(0);" id="regedit">注册账号</a></dd>
+      <dd><a href="javascript:void(0);" id="updateqx">更改账号权限</a></dd>
+    </dl>
+  </li>
+  <li class="layui-nav-item">
+    <a href="javascript:;">操作记录</a>
+    <dl class="layui-nav-child site-demo-button">
+      <dd><a href="javascript:void(0);" id="admino">管理员操作记录</a></dd>
+    </dl>
+  </li>
+      <li class="layui-nav-item"><a href="/Admin/loginout.aspx" id="exit">退出</a></li>
+</ul>
+
+
+  <div class="layui-tab-content">
+      <iframe id="ifr" class="layui-tab-item layui-show layui-show" src="Home.aspx" frameborder="no" allowtransparency="0"  scrolling="no" style="width:100%;height:600px;"></iframe>
+<!--      <iframe id="ifr" onload="javascript: layer.close(lm);" frameborder="no" allowtransparency="0"  scrolling="no" style="width:100%;height:600px;"></iframe>-->
+  </div>
+    <script src="js/jquery-1.11.3.js"></script>
+    <script src="js/layer/layer.js"></script>
+    <script src="js/layui/layui.js"></script>
+<script>
+        var lm;
+        window.onload = function () {
+            lm = layer.load(1, {
+                shade: [0.1, '#fff'] //0.1透明度的白色背景
+            });
+            ifr.src = "Home.aspx";
+        }
+        layui.use('element', function () {
+            var element = layui.element(); //导航的hover效果、二级菜单等功能，需要依赖element模块
+            //监听导航点击
+            element.on('nav(demo)', function (elem) {
+                //console.log(elem)
+                layer.msg(elem.text());
+            });
+        });
+        var oFrm = document.getElementById('ifr');
+        oFrm.onload = oFrm.onreadystatechange = function () {
+            if (this.readyState && this.readyState != 'complete') return;
+            else {
+                layer.close(lm);
+            }
+        }
+
+
+        $("#alls").click(function () {
+            lm = layer.load(1, {
+                shade: [0.1, '#fff'] //0.1透明度的白色背景
+            });
+            ifr.src = "index.aspx";
+        });
+        $("#home").click(function () {
+            lm = layer.load(1, {
+                shade: [0.1, '#fff'] //0.1透明度的白色背景
+            });
+            ifr.src = "home.aspx";
+        });
+        $("#adds").click(function () {
+            lm = layer.load(1, {
+                shade: [0.1, '#fff'] //0.1透明度的白色背景
+            });
+            ifr.src = "AddResource.aspx";
+        });
+        $("#utj").click(function () {
+            lm = layer.load(1, {
+                shade: [0.1, '#fff'] //0.1透明度的白色背景
+            });
+            ifr.src = "AllLine.aspx";
+        });
+        $("#admino").click(function () {
+            lm = layer.load(1, {
+                shade: [0.1, '#fff'] //0.1透明度的白色背景
+            });
+            ifr.src = "DownLoad.aspx";
+        });
+
+        $(function () {
+            $("#regedit").click(function () {
+                layer.open({
+                    type: 2,
+                    title: '注册账号',
+                    shade: false,
+                    maxmin: false, //开启最大化最小化按钮
+                    anim: 0,
+                    area: ['380px', '510px'],
+                    content: 'titleOperation/Register.aspx'
+                });
+            });
+            $("#updateqx").click(function () {
+                layer.open({
+                    type: 2,
+                    title: '更改账号权限',
+                    shade: false,
+                    maxmin: false, //开启最大化最小化按钮
+                    area: ['600px', '600px'],
+                    content: 'titleOperation/ChangeAccountQX.aspx'
+                });
+            });
+            $("#updatepwd").click(function () {
+                layer.open({
+                    type: 2,
+                    title: '修改密码',
+                    shade: false,
+                    maxmin: false, //开启最大化最小化按钮
+                    area: ['330px', '320px'],
+                    content: 'titleOperation/ChangePwd.aspx'
+                });
+            })
+        });
+        function checkmqx(type) {//注意!母版页的方法会和内嵌的网页方法混淆!
+            var state = "<%=state%>";
+            var add = "<%=add%>";
+            var select = "<%=select1%>";
+            var expore = "<%=expore%>";
+            if (state != 1) {
+                layer.alert('您的账号异常!', {
+                    icon: 5, title: false,
+                    shadeClose: true, skin: 'layer-ext-moon'
+                });
+                return false;
+            } else {
+                var temp;
+                switch (type) {
+                    case "add": temp = add; break;
+                    case "select": temp = select; break;
+                    case "expore": temp = expore; break;
+                }
+                if (temp != 1) {
+                    layer.alert("您的账号没有权限!", {
+                        icon: 5, title: false,
+                        shadeClose: true, skin: 'layer-ext-moon'
+                    });
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+        }
+    
+</script>
+</body>
+    
+</html>

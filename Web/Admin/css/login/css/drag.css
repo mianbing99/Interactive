@@ -1,0 +1,41 @@
+#drag{ 
+    position: relative;
+    background-color: rgba(232,232,232,0);
+    border-bottom:1px solid;
+    width: 290px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+#drag .handler{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    cursor: move;
+}
+.handler_bg{
+    background: rgba(255,255,255,0.2) url("../img/right.Png") no-repeat center;
+}
+.handler_ok_bg{
+    background: rgba(255,255,255,0.4) url("../img/ok.Png") no-repeat center;
+}
+#drag .drag_bg{
+    background-color: rgba(318,37,61,0);
+    height: 30px;
+    width: 0px;
+}
+#drag .drag_text{
+    position: absolute;
+    top: 0px;
+    width: 290px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -o-user-select:none;
+    -ms-user-select:none; 
+}

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="EJiaQinModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ChildBind">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="deviceId" Type="nvarchar" MaxLength="50" />
+          <Property Name="token" Type="nvarchar" MaxLength="100" />
+          <Property Name="sceneId" Type="int" />
+          <Property Name="BindDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="ChildChatUser">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="OpenId" Type="nvarchar" MaxLength="50" />
+          <Property Name="Token" Type="nvarchar" MaxLength="50" />
+          <Property Name="CreateDate" Type="datetime" />
+          <Property Name="deviceId" Type="nvarchar" MaxLength="50" />
+          <Property Name="state" Type="bit" />
+          <Property Name="mac" Type="varchar" MaxLength="50" />
+          <Property Name="qrticket" Type="varchar" MaxLength="200" />
+          <Property Name="deviceName" Type="varchar" MaxLength="50" />
+          <Property Name="userPhone" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="EJiaQinModelStoreContainer">
+          <EntitySet Name="ChildBind" EntityType="Self.ChildBind" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ChildChatUser" EntityType="Self.ChildChatUser" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="EJiaQinModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="ChildBind">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="deviceId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="token" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="sceneId" Type="Int32" />
+          <Property Name="BindDate" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="ChildChatUser">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="OpenId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Token" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CreateDate" Type="DateTime" Precision="3" />
+          <Property Name="deviceId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="state" Type="Boolean" />
+          <Property Name="mac" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="qrticket" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="deviceName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="userPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="EJiaQinEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ChildBind" EntityType="Self.ChildBind" />
+          <EntitySet Name="ChildChatUser" EntityType="Self.ChildChatUser" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="EJiaQinModelStoreContainer" CdmEntityContainer="EJiaQinEntities">
+          <EntitySetMapping Name="ChildBind">
+            <EntityTypeMapping TypeName="EJiaQinModel.ChildBind">
+              <MappingFragment StoreEntitySet="ChildBind">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="deviceId" ColumnName="deviceId" />
+                <ScalarProperty Name="token" ColumnName="token" />
+                <ScalarProperty Name="sceneId" ColumnName="sceneId" />
+                <ScalarProperty Name="BindDate" ColumnName="BindDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ChildChatUser">
+            <EntityTypeMapping TypeName="EJiaQinModel.ChildChatUser">
+              <MappingFragment StoreEntitySet="ChildChatUser">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="OpenId" ColumnName="OpenId" />
+                <ScalarProperty Name="Token" ColumnName="Token" />
+                <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+                <ScalarProperty Name="deviceId" ColumnName="deviceId" />
+                <ScalarProperty Name="state" ColumnName="state" />
+                <ScalarProperty Name="mac" ColumnName="mac" />
+                <ScalarProperty Name="qrticket" ColumnName="qrticket" />
+                <ScalarProperty Name="deviceName" ColumnName="deviceName" />
+                <ScalarProperty Name="userPhone" ColumnName="userPhone" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="无" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

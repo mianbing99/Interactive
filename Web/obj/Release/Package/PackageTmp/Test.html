@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <script type="text/javascript" src="Js/jquery-1.11.3.js"></script>
+    <script type="text/javascript" src="Js/layer.m/layer.m.js"></script>
+
+    <!--<script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+    <script type="text/javascript" src="js/layer.js"></script>-->
+    <script>
+        $(function () {
+            $("#zsgc_a").click(function () {
+                layer.open({
+                    type: 1,
+                    area: ['700px', '300px'],
+                    shadeClose: true, //点击遮罩关闭
+                    content: '\<\div style="padding:20px;">自定义内容\<\/div>'
+                    //content: $("#openupdata")
+                });
+            })
+        });
+    </script>
+</head>
+<body>
+    <a href="#" id="zsgc_a"> aaa</a>
+    <input id="Button1" type="button" value="button" />
+</body>
+</html>

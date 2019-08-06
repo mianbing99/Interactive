@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <link href="Css/style.css" rel="stylesheet" />
+    <style type="text/css">
+        html { height: 100%; width: 100%; }
+        body { height: 100%; width: 100%; background-image: url(/Img/5.jpg); background-size: cover; background-repeat: no-repeat; }
+        ._body { position: relative; width: 100%; height: 100%; text-align: center; margin: 0px auto; }
+        ._body > img { width: 92%; }
+
+        ._body ul { position: fixed; left: 0px; bottom: 0px; width: 100%; }
+        ._body ul li { float: left; width: 25%; height: 110px; line-height: 110px; }
+        ._body ul li img { width: 90%; margin-top: 5%; }
+        ._body ul li a:hover img { width: 100%; margin-top: 0px; }
+    </style>
+</head>
+<body>
+    <div class="_body">
+        <img src="/Img/6.png" />
+        <ul>
+            <li><a onclick="javascript:device.startVideoChat()"><img src="Img/4.png" /></a></li>
+            <li><a onclick="javascript: device.startVideoMessage()"><img src="Img/3.png" /></a></li>
+            <li><a onclick="javascript: device.sendPicture()"><img src="Img/1.png" /></a></li>
+            <li><a onclick="javascript: device.takePicture()"><img src="Img/2.png" /></a></li>
+
+        </ul>
+    </div>
+    <script src="http://qzonestyle.gtimg.cn/open/mobile/light_app/js/device.js"></script>
+    <script>
+        $(document).ready(function () {
+            device.checkApi({
+                list: ['send', 'sendShareMsg'], // API列表
+                onSuccess: function (ret) { // 检查结果
+                    if (ret["send"] == false) {
+                        alert("异常！请通知管理员。");
+                    }
+                }
+            });
+            device.onChange(function (data) {
+                if (data.unbind == 0) {
+                    if (data.online == 0) {
+                        alert("该设备处于离线状态！！！");
+                    }
+                } else {
+                    alert("该设备已与你解绑！");
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\Models.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\Models.pdb
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\EntityFramework.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\EntityFramework.xml
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\obj\Release\Models.dll
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\obj\Release\Models.pdb
+C:\Users\ICOX\Desktop\程序\OnlineVideo\OnlineVideo\Models\bin\Release\Models.dll.config
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\Models.dll.config
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\Models.dll
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\Models.pdb
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\EntityFramework.dll
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\EntityFramework.xml
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+E:\HP\金龙锋源代码\OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\HP\金龙锋源代码\OnlineVideo\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\HP\金龙锋源代码\OnlineVideo\Models\obj\Release\Models.dll
+E:\HP\金龙锋源代码\OnlineVideo\Models\obj\Release\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\Models.dll.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\obj\Release\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo_HP\Models\obj\Release\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\Models.dll.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\Models.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\obj\Release\Models.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\om\OnlineVideo\Models\obj\Release\Models.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\Models.dll.config
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\Models.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\Models.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\EntityFramework.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\EntityFramework.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\obj\Release\Models.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\Models\obj\Release\Models.pdb
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\Models.dll.config
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\Models.dll
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\Models.pdb
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\EntityFramework.dll
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\EntityFramework.xml
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+E:\tanwei\源码\OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\tanwei\源码\OnlineVideo\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\tanwei\源码\OnlineVideo\Models\obj\Release\Models.dll
+E:\tanwei\源码\OnlineVideo\Models\obj\Release\Models.pdb
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\Models.dll.config
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\Models.dll
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\Models.pdb
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\EntityFramework.dll
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\EntityFramework.xml
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\OnlineVideo\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\OnlineVideo\Models\obj\Release\Models.dll
+E:\8.lzs\源码\OnlineVideo\Models\obj\Release\Models.pdb
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\Models.dll.config
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\Models.dll
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\Models.pdb
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\EntityFramework.dll
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\EntityFramework.xml
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\新建文件夹\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\新建文件夹\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\新建文件夹\Models\obj\Release\Models.dll
+E:\8.lzs\源码\新建文件夹\Models\obj\Release\Models.pdb
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\Models.dll.config
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\Models.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\Models.pdb
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\EntityFramework.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\EntityFramework.xml
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\obj\Release\Models.dll
+E:\8.lzs\源码\2018年8月25日修改OnlineVideo\Models\obj\Release\Models.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\Models.dll.config
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\Models.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\Models.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\EntityFramework.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\EntityFramework.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\obj\Release\Models.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\Models\obj\Release\Models.pdb

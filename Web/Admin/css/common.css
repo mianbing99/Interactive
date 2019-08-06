@@ -1,0 +1,48 @@
+@charset "gb2312";
+/* CSS Document */
+
+/* ------------------------------------
+   
+ * FileName : common.css
+ * Description : Common Styles All
+ * Version : 2009-11-28
+ * Website : www.noahedu.com
+ * Author : **
+ 
+   -----------Structrue----------------
+   
+ * PageWidth : 980
+ * OtherWidth : 900 
+ * Number of column : none
+  
+   ------------------------------------*/
+   
+   a {color:#2297d2;text-decoration:none;}
+   a:visited {color:#2297d2;text-decoration:none;}
+   a:hover {color:#F60;text-decoration:underline;}
+   a:active {color:#F60;}
+   
+   .decoration{text-decoration:underline;}
+   
+   .width980{width:980px;margin:0px auto;}
+   .widthPre100{width:100%;margin:0px auto;}
+   
+   .red{color:#F00}
+   .blue{color:#00F}
+   .green{color:#389401}
+   
+   .left{float:left;}
+   .right{float:right;}
+   
+   .clear{clear:both;}
+   .clearBox{clear:both;overflow:auto !important;/*IE7+,FF,Sa*/_height:1%;/*IE6-*/}
+   .flowHeight{line-height:0px;overflow:hidden}
+   .noWarp{white-space:nowrap;overflow:hidden;}
+   
+   .padding-top10{padding-top:10px;}
+   .padding-top8{padding-top:8px;}
+   .padding-top4{padding-top:4px;}
+   .padding-top2{padding-top:2px;}
+   
+   .test{border:1px solid #999;}
+   .site{background-color:#D5E5F4;height:20px;height:28px;padding-top:8px;}

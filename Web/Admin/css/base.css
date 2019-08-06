@@ -1,0 +1,49 @@
+﻿/*左侧导航条*/
+.Menu { width: 200px; height: 100%; position: fixed; left: 0px; top: 0px; background-color:rgba(46,54,63, 0); }
+.Menu .Logo { }
+.Menu .Logo img { width: 200px; }
+.Menu ul li a i { padding-right: 10px; font-size: 12px; }
+.Menu > ul { height: 100%; background-color:rgba(46,54,63, 0); }
+.Menu > ul > li { text-align: center; }
+/*.Menu > ul > li { text-align: center; border-top: 1px solid #37414b; border-bottom: 1px solid #28B779; }*/
+.Menu ul li a { padding: 10px 0px; color: #363737; display: block; }
+.Menu ul li a:hover { background-color: rgba(255,255,255, 0.3); color: #363737; }
+.Menu ul li ul {  display: none; background-color:rgba(46,54,63, 0.1); }
+.Menu ul li ul li a:hover { background-color:rgba(46,54,63, 0.2); color: #363737; }
+.Menu ul li ul li .CkMenu { background-color:rgba(46,54,63, 0); color: #363737; }
+
+/*顶部用户信息*/
+.Content { margin-left: 200px; }
+.Content .User { height: 40px; background-color:rgba(46,54,63, 0); }
+.Content .User ul { float:left; }
+.Content .User ul li { height: 40px; line-height: 40px; float: left; }
+.Content .User ul li a { padding: 0px 10px; display: block; color: #363737; }
+.Content .User ul li a i { padding-right: 3px; }
+.Content .User ul li a:hover { background-color: rgba(255,255,255, 0.3); color: #363737; }
+.Content .User .OutLoginTime { float: right; height: 40px; line-height: 40px; margin-right: 10px; color: #000000; }
+/*站点地图*/
+.Navigation { height: 40px; line-height: 40px; background-color: #fff; border-bottom: 1px solid #e3ebed; }
+.Navigation a i { padding-left: 10px; padding-right: 5px; }
+/*页表标题*/
+.Module { padding: 0px 0px; }
+.Module h1 { padding: 15px 0px; font-size: 28px; color: #555; }
+.Module hr { border: 0px; border-top: 1px solid #dadada; border-bottom: 1px solid #fff; margin-bottom: 20px; }
+/*快捷操作*/
+.Module .Block-Box { margin-bottom: 5px; border: 1px solid #CDCDCD; background: none repeat scroll 0 0 #F9F9F9; }
+.Module .Block-Title { height: 36px; line-height: 36px; color: #666; border-bottom: 1px solid #CDCDCD; background-color: #efefef; }
+.Module .Block-Title span { float: left; padding: 0px 5px; border-right: 1px solid #dadada; }
+.Module .Block-Title h4 { font-weight: bold; float: left; padding-left: 5px; }
+.Module .Block-Convenient { padding: 15px; }
+.Module .Block-Box .Block-Convenient a { padding: 4px 12px; color: #fff; }
+.Module a:hover { filter: alpha(opacity=80); -moz-opacity: 0.8; opacity: 0.8; }
+.Module .Color_Lv { background-color: #5bb75b; border: 1px solid #52a452; }
+.Module .Color_Huang { background-color: #faa732; border: 1px solid #bb7d25; }
+.Module .Color_Lan { background-color: #49afcd; border: 1px solid #429db8; }
+.Module .Color_Hei { background-color: #363636; border: 1px solid #303030; }
+.Module .Color_Hong { background-color: #da4f49; border: 1px solid #c44742; }
+.Module .Block-Content { }
+
+
+/*公共*/
+.TbCommon {  width:100%; }
+.TbCommon tr{ height:40px; line-height:40px; border-top: 1px solid #ffffff; border-bottom: 1px solid #eeeeee; }

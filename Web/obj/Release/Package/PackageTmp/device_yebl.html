@@ -1,0 +1,228 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <link href="Css/style.css" rel="stylesheet" />
+    <style type="text/css">
+        html { height: 100%; width: 100%; }
+        body { height: 100%; width: 100%; background-image: url(/Img/ip02.png); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+        ._body { position: relative; width: 100%; height: 100%; text-align: center; margin: 0px auto; }
+        ._body > img { width: 92%; }
+        ._body ul { position: fixed; left: 0px; bottom: 0px; width: 100%; height: 198px; margin-left: 28px; }
+        ._body ul li { float: left; width: 25%; height: 98px; line-height: 98px; margin-left: 10px; }
+        ._body ul li img { width: 90%; margin-top: 5%; }
+        ._body ul li a:hover img { width: 100%; margin-top: 0px; }
+        #bottom { width: 100%; margin: auto; text-align: center; border: 0px solid black; left: 0px; position: fixed; text-align: center; bottom: 0px; }
+        #bottom ul { width: 100%; border: 0px solid red; float: left; text-align: center; border: 0px solid black; }
+        #bottom li { width: 32.3%; float: left;text-align: center; border: 0px solid black; }
+    </style>
+</head>
+<body>
+    <div id="direction" style="text-align:center">
+        <a onclick="javascript: Front() "><img src="Img/AddBtn.png" width="25%" /></a> <br/>
+        <a onclick="javascript: Left() "><img src="Img/AddBtn.png" width="25%" /></a>
+        <a onclick="javascript: Right() "><img src="Img/AddBtn.png" width="25%" /></a><br />
+        <a onclick="javascript: Back() "><img src="Img/AddBtn.png" width="25%" /></a>
+    </div>
+    <div id="bottom">
+        <ul>
+            <!--//device.openCameraControl()-->
+            <!--device.startVideoChat()-->
+            <li><a onclick="javascript: openCamera() "><img src="Img/ip_09.png" width="45%" /></a></li>
+            <li><a onclick="javascript: VideoChat() "><img src="Img/ip_11.png" width="45%" /></a></li>
+            <li><a onclick="javascript: device.startVideoMessage()"><img src="Img/ip_13.png" width="45%" /></a></li><!--备注-->
+            <!--<li><a onclick="javascript:window.location.href = 'updateinfo.html' + document.location.search"><img src="Img/ip_23.png" width="75" height="87" /></a></li>-->
+            <li><a onclick="javascript: device.sendPicture()"><img src="Img/ip_25.png" width="45%" /></a></li>
+            <li><a onclick="javascript: device.takePicture()"><img src="Img/ip_27.png" width="45%" /></a></li>
+        </ul>
+    </div>
+    <script type="text/javascript" src="Admin/js/jquery-1.11.3.js"></script>
+    <script type="text/javascript" src="Admin/Content/layer/layer.js"></script>
+    <script src="http://qzonestyle.gtimg.cn/open/mobile/light_app/js/device.js"></script>
+    <script>
+        var online = 0;
+        $(document).ready(function () {
+            device.debug = false;
+            device.moreSetRefresh({
+                bRefresh: 'yes'
+            });
+
+            device.checkApi({
+                list: ['send', 'sendShareMsg'], // API列表
+                onSuccess: function (ret) { // 检查结果
+                    if (ret["send"] == false) {
+                        layer.msg('错误,没有获取到数据');
+                    }
+                }
+            });
+            device.onChange(function (data) {
+                if (data.unbind == 0) {
+                    if (data.online == 0) {
+                        device.moreSetRefresh({
+                            bRefresh: 'yes'
+                        });
+                        layer.msg('对方已离线');
+                        online = 0;
+                    } else {
+                        device.moreSetRefresh({
+                            bRefresh: 'yes'
+                        });
+                        layer.msg('对方上线啦');
+                        online = 1;
+                    }
+                } else {
+                    layer.alert('该设备已与你解绑!');
+                }
+            });
+            teststr()
+        });
+        //获取当前的帐号信息
+        function teststr() {
+            device.openApi({
+                name: 'mb_get_user_info', //API名称
+                onSuccess: function (ret) { // 成功回调
+                    //device.debug = true;
+                    device.log('onSuccess: ' + JSON.stringify(ret));
+                    device.log('头像：' + '<img src="' + ret.figureurl_qq_2 + '">' + '，昵称：' + ret.nickname + '，账号：' + ret.qqid);
+                },
+                onError: function (ret) { // 失败回调
+                    device.log('onError: ' + JSON.stringify(ret));
+                }
+            });
+        }
+        function isonline(online) {
+            var sURLVariables, i, sParameterName, sPageURL = window.location.search.substring(1);
+            if (sPageURL) {
+                sURLVariables = sPageURL.split("&");
+                for (i = 0; i < sURLVariables.length; i++) {
+                    sParameterName = sURLVariables[i].split("=");
+                    if (sParameterName[0] == online) return sParameterName[1]
+                }
+            }
+        }
+        function openCamera() {
+            device.moreSetRefresh({ bRefresh: 'yes' });
+            aa();
+            if (isonline('online') == '1') {
+                device.openCameraControl();
+            } else {
+                if (online == 0)
+                    layer.msg('对方未在线,对方在线后重试~');
+                else
+                    device.openCameraControl();
+            }
+        }
+        function VideoChat() {
+            device.moreSetRefresh({ bRefresh: 'yes' });
+            aa();
+            if (isonline('online') == '1') {
+                device.startVideoChat();
+            } else {
+                if (online == 0)
+                    layer.msg('对方未在线,对方在线后重试~');
+                else
+                    device.startVideoChat();
+            }
+        }
+        function aa() {
+            device.onChange(function (data) {
+                if (data.unbind == 0) {
+                    if (data.online == 0) {
+                        device.moreSetRefresh({
+                            bRefresh: 'yes'
+                        });
+                        online = 0;
+                    } else {
+                        device.moreSetRefresh({
+                            bRefresh: 'yes'
+                        });
+                        online = 1;
+                    }
+                } else {
+                    layer.alert('该设备已与你解绑!');
+                }
+            });
+        }
+        function Front()
+        {
+            device.send({
+                datapoint: [{
+                    id: 100003,
+                    value: 1
+                }],
+                vibrate: 0, // 1为发送时振动，可选
+                lifetime: 20, // 生命期，范围1到604800秒，可选
+                onSuccess: function (ret) { // 发送成功回调
+                    device.log('onSuccess: ' + JSON.stringify(ret));
+                },
+                onAck: function (ret) { // 接收响应成功回调，蓝牙设备暂不支持
+                    device.log('onAck: ' + JSON.stringify(ret));
+                },
+                onError: function (ret) { // 发送失败回调
+                    device.log('onError: ' + JSON.stringify(ret));
+                }
+            });
+        }
+        function Back() {
+            device.send({
+                datapoint: [{
+                    id: 100003,
+                    value: 2
+                }],
+                vibrate: 0, // 1为发送时振动，可选
+                lifetime: 20, // 生命期，范围1到604800秒，可选
+                onSuccess: function (ret) { // 发送成功回调
+                    device.log('onSuccess: ' + JSON.stringify(ret));
+                },
+                onAck: function (ret) { // 接收响应成功回调，蓝牙设备暂不支持
+                    device.log('onAck: ' + JSON.stringify(ret));
+                },
+                onError: function (ret) { // 发送失败回调
+                    device.log('onError: ' + JSON.stringify(ret));
+                }
+            });
+        }
+        function Left() {
+            device.send({
+                datapoint: [{
+                    id: 100003,
+                    value: 3
+                }],
+                vibrate: 0, // 1为发送时振动，可选
+                lifetime: 20, // 生命期，范围1到604800秒，可选
+                onSuccess: function (ret) { // 发送成功回调
+                    device.log('onSuccess: ' + JSON.stringify(ret));
+                },
+                onAck: function (ret) { // 接收响应成功回调，蓝牙设备暂不支持
+                    device.log('onAck: ' + JSON.stringify(ret));
+                },
+                onError: function (ret) { // 发送失败回调
+                    device.log('onError: ' + JSON.stringify(ret));
+                }
+            });
+        }
+        function Right() {
+            device.send({
+                datapoint: [{
+                    id: 100003,
+                    value: 4
+                }],
+                vibrate: 0, // 1为发送时振动，可选
+                lifetime: 20, // 生命期，范围1到604800秒，可选
+                onSuccess: function (ret) { // 发送成功回调
+                    device.log('onSuccess: ' + JSON.stringify(ret));
+                },
+                onAck: function (ret) { // 接收响应成功回调，蓝牙设备暂不支持
+                    device.log('onAck: ' + JSON.stringify(ret));
+                },
+                onError: function (ret) { // 发送失败回调
+                    device.log('onError: ' + JSON.stringify(ret));
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DataLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OpenId" Type="varchar" MaxLength="50" />
+    <Property Name="KeyId" Type="int" />
+    <Property Name="Type" Type="int" Nullable="false" />
+    <Property Name="Describe" Type="nvarchar(max)" />
+    <Property Name="CreateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TempBind">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Token" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SceneId" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TencentUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OpenId" Type="varchar" MaxLength="50" />
+    <Property Name="GUID" Type="varchar" MaxLength="20" />
+    <Property Name="License" Type="varchar" MaxLength="300" />
+    <Property Name="CreateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Video">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tid" Type="int" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cover" Type="varchar" MaxLength="500" />
+    <Property Name="Describe" Type="text" />
+    <Property Name="CreateDate" Type="datetime" />
+    <Property Name="Sort" Type="int" />
+    <Property Name="State" Type="bit" />
+  </EntityType>
+  <!--生成过程中发现错误:
+警告 6002: 表/视图“bds13396396_db.dbo.VideoSort”未定义主键。已推断出该键，并将定义创建为只读的表/视图。-->
+  <EntityType Name="VideoSort">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Tid" Type="int" />
+    <Property Name="Source" Type="varchar" MaxLength="50" />
+    <Property Name="Sort" Type="int" />
+  </EntityType>
+  <EntityType Name="VideoType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tid" Type="int" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cover" Type="nvarchar" MaxLength="200" />
+    <Property Name="Sort" Type="int" />
+    <Property Name="State" Type="int" />
+  </EntityType>
+  <EntityType Name="VideoUrl">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Vid" Type="int" />
+    <Property Name="Source" Type="varchar" MaxLength="20" />
+    <Property Name="Path" Type="varchar(max)" />
+    <Property Name="TempPath" Type="varchar(max)" />
+    <Property Name="State" Type="int" />
+    <Property Name="Sort" Type="int" />
+    <Property Name="CreateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="WeChatUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OpenId" Type="varchar" MaxLength="50" />
+    <Property Name="Token" Type="varchar" MaxLength="50" />
+    <Property Name="CreateDate" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="dbModelStoreContainer">
+    <EntitySet Name="DataLog" EntityType="Self.DataLog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TempBind" EntityType="Self.TempBind" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TencentUser" EntityType="Self.TencentUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Video" EntityType="Self.Video" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VideoType" EntityType="Self.VideoType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VideoUrl" EntityType="Self.VideoUrl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="WeChatUser" EntityType="Self.WeChatUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VideoSort" EntityType="Self.VideoSort" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [VideoSort].[Id] AS [Id], 
+    [VideoSort].[Tid] AS [Tid], 
+    [VideoSort].[Source] AS [Source], 
+    [VideoSort].[Sort] AS [Sort]
+    FROM [dbo].[VideoSort] AS [VideoSort]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,484 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.leftMenuTab{
+font-size:15px;
+}
+
+.blueTable{
+border:2px solid #5da6ea;
+padding:6px;
+}
+
+.blueTable2{
+margin-bottom:6px;  
+border:1px solid #5da6ea;
+padding:6px;
+background-color:#f2f7fc;
+}
+
+.blueTable3{
+margin-bottom:6px;
+padding:6px;
+background-color:#f2f7fc;
+}
+
+
+.title2{
+font-weight:bold; 
+color:#0071d6;
+font-size:15px;
+font-family:ËÎÌו;
+}
+
+
+a.menu:link,a.menu:visited  {
+	color: #ffffff;
+	text-decoration:none;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+a.menu:hover,a.menu:active {
+	color: #fcff00;
+	text-decoration: underline;
+	font-size: 15px;
+}
+
+
+
+a:link,a:visited  {
+	color: #006ad7;
+	text-decoration:none;
+	font-size:12px;
+}
+a:hover,a:active {
+	font-size:12px;
+	color: #ff0000;
+	text-decoration: underline;
+}
+
+a.title:hover,a.title:active {
+	font-size:12px;
+	color: #ff0000;
+	text-decoration: underline;
+}
+a.title:link,a.title:visited  {
+    font-size:12px;
+	color: #000000;
+	text-decoration:none;
+}
+
+/*DataGrid Control Begin*/
+.DataGrid
+{
+	border-color:#5da6ea;
+	border-style:solid;
+	border-width:1px;
+	background-color:#f2f7fc;	
+	color:Black;
+	font-size:10px;
+}			
+
+.DataGridHeader
+{
+	height:22px;
+	font-weight:bold;
+	font-size:12px;
+	background-color:#8EC9F4;	
+	text-decoration:none;
+	font:#000000;
+	text-align:center;
+}
+
+.DataGridFooter
+{
+	height:26px;
+	font-style:normal;
+	font-weight:normal;
+	font-size:12px;
+	color:Black;
+	
+}
+
+.DataGridItem
+{
+	background-color:#f2f7fc;
+	height:24px;
+	font-size:10px;
+}
+.DataGridItem2
+{
+	color:#FF0000;
+	height:24px;
+	font-size:10px;
+}
+.DataGridAlter
+{
+	background-color:#f2f7fc;
+	height:24px;
+	font-size:10px;
+}
+
+.DataGridHighLight
+{
+	background-color:#f2f7fc;
+	height:24px;
+	border-color:Olive;
+	border-width:2px;
+	border-style:inset;
+}
+/*DataGrid Control End*/
+
+/*Back Button Start*/
+.addbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/addbn.gif);
+	cursor:hand;
+}
+
+.delbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/deletebn.gif);	
+	cursor:hand;
+}
+
+.editbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/editbn.gif);
+	cursor:hand;
+}
+
+.pack1button
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/pack.gif);	
+	cursor:hand;
+}
+
+.createpackbutton
+{
+	width:90px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/created.gif);
+	cursor:hand;
+}
+
+.smalladdbutton
+{
+	width:43px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/smallad.gif);
+	cursor:hand;
+}
+
+.smalldelbutton
+{
+	width:43px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/smallde.gif);	
+	cursor:hand;
+}
+
+.smalleditbutton
+{
+	width:43px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/smalled.gif);
+	cursor:hand;
+}
+/**/
+.btnFenpei
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/fenPbn.gif);	
+	cursor:hand;
+}
+
+.Addtaskbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/adnewbnTask.gif);	
+	cursor:hand;
+}
+.Completebutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/combn.gif);	
+	cursor:hand;
+}
+.UnCompletebutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/nocombn.gif);	
+	cursor:hand;
+}
+/* */
+.disableaddbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/addgra.gif);
+	cursor:hand;
+}
+
+.disabledelbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/deletegre.gif);	
+	cursor:hand;
+}
+
+.disableeditbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/elgra.gif);
+	cursor:hand;
+}
+/* */
+.querybutton
+{
+	width:55px;
+	height:18px;
+	border-width:0px;
+	background-image:url(../images/search.gif);
+	cursor:hand;
+}
+
+.savebutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/savebn.gif);
+	cursor:hand;
+}
+
+.btn{background-image:url(../images/btn.gif);width:70px;text-align:center;border:none; color: #000000; cursor:hand;height:23px;}
+
+.fbbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/fbbn.gif);
+	cursor:hand;
+}
+
+.qxfbbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/qxfbbn.gif);
+	cursor:hand;
+}
+
+
+.backbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/backbn.gif);
+	cursor:hand;
+}
+
+.selectbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/selectBn.gif);
+	cursor:hand;
+}
+
+.submitbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/submitbn.gif);
+	cursor:hand;
+}
+
+.uploadbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/upLoadbn.gif);
+	cursor:hand;
+}
+
+.zzmsbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/zzms.gif);
+	cursor:hand;
+}
+/*          */
+.passbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/passbn.gif);
+	cursor:hand;
+}
+
+.rejectbutton
+{
+	width:78px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/rejectbn.gif);
+	cursor:hand;
+}
+
+.copybutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/copybn.gif);
+	cursor:hand;
+}
+
+.tempsavebutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/tempsavebn.gif);
+	cursor:hand;
+}
+.tianjiabutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/tianjia.gif);
+	cursor:hand;
+}
+.removebutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/removebn.gif);
+	cursor:hand;
+}
+
+/* */
+.SaveOrderbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/savePX.gif);
+	cursor:hand;
+}
+.assignbutton
+{
+	width:70px;
+	height:23px;
+	border-width:0px;
+	background-image:url(../images/fenPbn.gif);
+	cursor:hand;
+}
+
+.delfile
+{
+	cursor:hand;
+	border-width:1px;
+	width:60px;
+	height:23px;
+}
+
+.lnkGo
+{
+	width:20px;
+	height:18px;
+	background-image:url(../images/gobn.gif);
+}
+
+/*Back Button End*/
+
+
+.title
+{
+	padding-left:7px;
+	font-size:14px;
+	font-weight:bold;
+	vertical-align:bottom;
+	font-family:ËÎÌו;
+}
+
+.LabelTitle
+{
+	color:Black;
+	font-size:15px;
+	font-family:ËÎÌו;
+}
+
+
+.TitleButton
+{
+	color:#336699;
+}
+
+.showorder
+{
+	text-align:center;
+}
+.ButtonValign
+{
+	vertical-align:middle;
+}
+.styleredfont 
+{ 
+	text-decoration: blink ;color:red;
+}

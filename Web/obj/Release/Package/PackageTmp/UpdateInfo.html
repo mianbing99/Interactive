@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        html { height: 100%; width: 100%; }
+        body { height: 100%; width: 100%; background-image: url(/Img/up_08.png); background-size: cover; background-repeat: no-repeat; }
+        ._bodyne { position: relative; width: 100%; height: 155px; text-align: center; margin: 0px auto; }
+        #inputUp { height: 50px; width: 200px; float: left; margin-left: 100px; border: 0px solid red; }
+        #InputSave { height: 45px; width: 200px; float: left; margin-left: 100px; overflow:hidden }
+    </style>
+    <script src="Js/jquery-1.11.3.js"></script>
+    <script src="http://qzonestyle.gtimg.cn/open/mobile/light_app/js/device.js"></script>
+    <script>
+        $(function () {
+            device.openApi({
+                name: 'mb_get_user_info',
+                onSuccess: function (ret) { // 成功回调
+                    device.log('onSuccess: ' + JSON.stringify(ret));
+                    device.log('头像：' + '<img src="' + ret.figureurl_qq_2 + '">' + '，昵称：' + ret.nickname);
+                    $("#nickname").val(ret.nickname);
+                    $("#face").attr("src", ret.figureurl_qq_2);
+                },
+                onError: function (ret) { // 失败回调
+                    device.log('onError: ' + JSON.stringify(ret));
+                }
+            });
+            //保存修改的信息
+            $("#ButSave").linkbutton({
+                onClick:function () {
+                    var checkName = $("#nickname").value()
+                    var imgSrc = $("#face").value()
+                    $.ajax({
+                        url: "Common/VideoHandler.cs",
+                            type: "POST",
+                            data: $("#form1").serialize(),                          
+                            success: function (result) {
+                                if (result == "True") {
+                                    window.location.href = "UpdateInfo.html";                                   
+                                }
+                            }
+                        });
+                }
+            })
+            ////图片本地上传事件
+            //$("#purUP").click(function () {
+            //    device.sendPicture();
+            //});
+            ////图片拍照上传事件                                                       .
+            //$("#purupPde").click(function () {
+            //    device.takePicture();
+            //})
+        })
+    </script>
+</head>
+<body>
+    <!--<form id="form1">-->
+        <div class="_bodyne">
+            <p>修改备注：<input id="nickname" type="text" /></p>
+            <p>修改图片：<img id="face" typeof="img"></p>
+        </div>
+    <!--</form>-->
+    <div id="inputUp">
+        <input id="purUP" type="button" value="本地上传" style=" height:30px; width:80px; font-size:16px;background-color:#faf6f6; " /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input id="purupPde" type="button" value="拍照上传" style=" height: 30px; width: 80px; font-size: 16px; background-color: #faf6f6;" />
+    </div>
+    <div id="InputSave">
+        <input id="ButSave" type="button" value="保存信息" style="color: #ffd800; border-color: #0094ff; background-color: #0094ff; height: 32px; width: 191px; font-size: 18px; " />
+    </div>
+</body>
+</html>

@@ -1,0 +1,148 @@
+老人专区-小品专区-郭冬临小品 : 啊啊
+System.Byte[]
+System.Byte[]
+System.Byte[]
+System.Byte[]
+System.Byte[]
+System.Byte[]
+System.Byte[]
+System.Byte[]
+System.Byte[]
+1:92932
+2:insert ChildBind (deviceId,token,sceneId) VALUES ('8F213737FFFFBC5', '9b1cf7ddc4c486489e94adb2c8e02b2e30efe4bb','7645') 
+4:11_sonlsUKh_zNtkNK1kUG813Cv_evPpeivFZ4kOyB3T32tkQuhgUStySvxDTbqJwi5zTn275FZ6exTwhbtIiSaPwHVc4b0ur-KqJVb0MUixrLPuz7tsnC-kGJdth4PZLiADAEOA-76441
+7645--11_sonlsUKh_zNtkNK1kUG813Cv_evPpeivFZ4kOyB3T32tkQuhgUStySvxDTbqJwi5zTn275FZ6exTwhbtIiSaPwHVc4b0ur-KqJVb0MUixrLPuz7tsnC-kGJdth4PZLiADAEOA
+7645--{"expire_seconds": 259200, "action_name": "QR_SCENE", "action_info": {"scene": {"scene_id": 7645}}}--11_sonlsUKh_zNtkNK1kUG813Cv_evPpeivFZ4kOyB3T32tkQuhgUStySvxDTbqJwi5zTn275FZ6exTwhbtIiSaPwHVc4b0ur-KqJVb0MUixrLPuz7tsnC-kGJdth4PZLiADAEOA
+{"ticket":"gQF08DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUEtMa2NTX2RkYTMxNVFMT05yMUEAAgT0ei5bAwSA9AMA","expire_seconds":259200,"url":"http:\/\/weixin.qq.com\/q\/02PKLkcS_dda315QLONr1A"}
+GetEwm END:38378
+1:92950
+2:insert ChildBind (deviceId,token,sceneId) VALUES ('8F213737FFFFBC5', '9b1cf7ddc4c486489e94adb2c8e02b2e30efe4bb','7664') 
+4:11_sonlsUKh_zNtkNK1kUG813Cv_evPpeivFZ4kOyB3T32tkQuhgUStySvxDTbqJwi5zTn275FZ6exTwhbtIiSaPwHVc4b0ur-KqJVb0MUixrLPuz7tsnC-kGJdth4PZLiADAEOA-76631
+7664--11_sonlsUKh_zNtkNK1kUG813Cv_evPpeivFZ4kOyB3T32tkQuhgUStySvxDTbqJwi5zTn275FZ6exTwhbtIiSaPwHVc4b0ur-KqJVb0MUixrLPuz7tsnC-kGJdth4PZLiADAEOA
+7664--{"expire_seconds": 259200, "action_name": "QR_SCENE", "action_info": {"scene": {"scene_id": 7664}}}--11_sonlsUKh_zNtkNK1kUG813Cv_evPpeivFZ4kOyB3T32tkQuhgUStySvxDTbqJwi5zTn275FZ6exTwhbtIiSaPwHVc4b0ur-KqJVb0MUixrLPuz7tsnC-kGJdth4PZLiADAEOA
+{"ticket":"gQH88DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyT2gyTmNSX2RkYTMxNGpNTzFyMTkAAgSTey5bAwSA9AMA","expire_seconds":259200,"url":"http:\/\/weixin.qq.com\/q\/02Oh2NcR_dda314jMO1r19"}
+getQrUrl
+GenerateTemp
+GetTicket
+GetQrCodeImg 耗时：6.7666614，38538
+getQrUrl
+GenerateTemp
+GetTicket
+GetQrCodeImg 耗时：0.6319523，38512
+getQrUrl
+GenerateTemp
+GetTicket
+GetQrCodeImg 耗时：0.7026974，38308
+getQrUrl
+GenerateTemp
+GetTicket
+GetQrCodeImg 耗时：6.3942459，38639
+getQrUrl
+GenerateTemp
+GetTicket
+GetQrCodeImg 耗时：0.5449214，39381
+getQrUrl
+GenerateTemp
+GetTicket
+GetEwm END:38223
+getQrUrl
+GenerateTemp
+GetTicket
+GetEwm END:37391
+getQrUrl
+GenerateTemp
+GetTicket
+GetEwm END:38918
+getQrUrl
+GenerateTemp
+GetTicket
+GetEwm END:38917
+请选择 : dsa
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+GetQrCodeImg 耗时：5.4669713，38898
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+getQrUrl
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket
+GenerateTemp
+GetTicket

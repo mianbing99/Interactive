@@ -1,0 +1,98 @@
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe.config
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\AdminManager.pdb
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\EntityFramework.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\EntityFramework.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\obj\Debug\AdminManager.DownFile.resources
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\obj\Debug\AdminManager.Home.resources
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\obj\Debug\AdminManager.exe
+F:\2016已交接项目\在线视频播放\OnlineVideo\OnlineVideo\AdminManager\obj\Debug\AdminManager.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe.config
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\AdminManager.pdb
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\EntityFramework.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\EntityFramework.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\obj\Debug\AdminManager.DownFile.resources
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\obj\Debug\AdminManager.Home.resources
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\obj\Debug\AdminManager.exe
+E:\LZB\项目源码\E家亲\OnlineVideo\AdminManager\obj\Debug\AdminManager.pdb
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe.config
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.pdb
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.dll
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.xml
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\tanwei\源码\OnlineVideo\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\tanwei\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.DownFile.resources
+E:\tanwei\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.Home.resources
+E:\tanwei\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+E:\tanwei\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+E:\tanwei\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.exe
+E:\tanwei\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.pdb
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe.config
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.pdb
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.dll
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.xml
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\zrd\源码\OnlineVideo\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\zrd\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.DownFile.resources
+E:\zrd\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.Home.resources
+E:\zrd\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+E:\zrd\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+E:\zrd\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.exe
+E:\zrd\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.pdb
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe.config
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.exe
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\AdminManager.pdb
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\OnlineVideo\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.DownFile.resources
+E:\8.lzs\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.Home.resources
+E:\8.lzs\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+E:\8.lzs\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+E:\8.lzs\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.exe
+E:\8.lzs\源码\OnlineVideo\AdminManager\obj\Debug\AdminManager.pdb
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\AdminManager.exe.config
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\AdminManager.exe
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\AdminManager.pdb
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\EntityFramework.dll
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\EntityFramework.xml
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\8.lzs\源码\新建文件夹\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\8.lzs\源码\新建文件夹\AdminManager\obj\Debug\AdminManager.DownFile.resources
+E:\8.lzs\源码\新建文件夹\AdminManager\obj\Debug\AdminManager.Home.resources
+E:\8.lzs\源码\新建文件夹\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+E:\8.lzs\源码\新建文件夹\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+E:\8.lzs\源码\新建文件夹\AdminManager\obj\Debug\AdminManager.exe
+E:\8.lzs\源码\新建文件夹\AdminManager\obj\Debug\AdminManager.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\AdminManager.exe.config
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\AdminManager.exe
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\AdminManager.pdb
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\EntityFramework.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\EntityFramework.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\obj\Debug\AdminManager.DownFile.resources
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\obj\Debug\AdminManager.Home.resources
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\obj\Debug\AdminManager.Properties.Resources.resources
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\obj\Debug\AdminManager.csproj.GenerateResource.Cache
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\obj\Debug\AdminManager.exe
+C:\Users\jlf019\Desktop\视频管理\2018-8-25-OnlineVideo - git\AdminManager\obj\Debug\AdminManager.pdb

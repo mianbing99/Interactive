@@ -1,0 +1,37 @@
+2019/8/6 12:07:30InteractiveService.error:GDI+ 中发生一般性错误。
+--------------But_xiugai_Click-------------
+添加成功
+returnStr={"ret_code":0}
+通知结果
+--------------But_xiugai_Click-------------
+修改成功
+returnStr={"ret_code":0}
+通知结果
+--------------But_xiugai_Click-------------
+修改成功
+returnStr={"ret_code":0}
+通知结果
+--------------But_xiugai_Click-------------
+添加成功
+returnStr={"ret_code":0}
+--------------But_xiugai_Click-------------
+添加成功
+ms_json={
+  "Title": "推送消息",
+  "Type": 13,
+  "OpenId": "ocpAZ1hp_Egx33pvVie1Y4Fl3zik",
+  "Content": {
+    "flag": 3,
+    "Id": 86,
+    "hour": "19",
+    "content": "起床",
+    "mitner": "50",
+    "state": 1,
+    "AlarmType": "",
+    "Repeat": "0",
+    "weekStr": "0,0,1,0,0,0,1",
+    "Frequency": 1,
+    "Interval": 3,
+    "DeviceId": "0FF99FA900009FF"
+  }
+}

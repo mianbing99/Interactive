@@ -1,0 +1,32 @@
+﻿body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, img { margin: 0; padding: 0; }
+/*body { background: #fff; color: #5d6161;word-wrap:break-word; white-space:normal; word-break:break-all; text-justify: auto; text-align: justify; font-size: 20px; font-family: "Microsoft YaHei","微软雅黑",Arial,Verdana,Helvetica,sans-serif; }*/
+h1, h2, h3, h4, h5, h6 { font-weight: normal; font-size: 100%; }
+/*table { border-collapse: collapse; border-spacing: 0; }*/
+address, caption, cite, code, dfn, em, th, var { font-style: normal; font-weight: normal; }
+a { text-decoration: none; padding: 3px 0px; }
+.none{  display:none;}
+.pdtop { padding-top:1px}
+a:hover {color:#ff6600; }
+a:focus { outline: 0; -moz-outline: 0; }
+img { border: 0; display:block; }
+ol, ul, li { list-style: none; }
+/*table { border-collapse: collapse; }*/
+input { outline: 0; -moz-outline: 0; }
+::selection { background: #328EFE; color: #fff; }
+::-moz-selection { background: #328EFE; color: #fff; }
+body { /*scrollbar-face-color: #8000FF; scrollbar-highlight-color: #400080; scrollbar-3dlight-color: #FF8040; scrollbar-arrow-color: #FF8040; scrollbar-track-color: #400080; scrollbar-darkshadow-color: #FF8040;*/ }
+html { height: 100%; }
+body {height: 100%; min-width: 1000px; background-color:#eee; }
+table {
+}
+.tw40 { width:40px; }
+.tw60 { width:60px; }
+.tw70 { width:70px; }
+.tw80 { width:80px; }
+.tw100 { width:100px; }
+.tw120 { width:120px; }
+.tw130 { width:130px; }
+.tw150 { width:150px; }
+.tw160 { width:160px; }
+.clear { clear: both; }
+
